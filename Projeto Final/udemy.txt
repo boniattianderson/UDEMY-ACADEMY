@@ -1,0 +1,75 @@
+Salf Close= Se alto fecham 
+O site vai na  tag body
+tags de valores como lang="pt">, seguido da tag html 
+<!DOCTYPE html>,tag de informação para o navegador.
+head tag também de informaçõa para o  navegar mas é a tag onde irão ficar irformações tais como codificação da pagina alinhamento  e demais informações.
+Seguida  da tag body, onde será desenvolvido  o site
+depois da tag title, dentro  da head.
+tag h's são para titulos para dentro da página.
+hr tag de divisão  da página.
+tag div de divisão do html.
+br tag salfClose,  utilizada para dar enter.
+tag p, de paragráfo.
+header tag de cabeçalho. 
+footer tag de rodapé.
+tag th define uma célula cabeçalho de um grupo.
+tag tr define  uma  linha  da tabela. 
+OBS: Refazer tarefa tabela do dia 23/08/22 Feito
+_______________""________________________________
+
+Desafio cria tabela  de  produtos 
+A tag DIV Serve de separação  e  ajuda  a stilizar somente grupos separados com  ela
+com a tag Style
+_______________""__________________________________
+Dia 29/08/22
+Tag style na dive e chamada de Style  in line
+_______________""__________________________________
+Tag id"" Serve para identificar  tag entre o HTML e o CSS
+class tag de identificação  depois da tag id"" poré quando se deixa em  efidencia dentro  do  css  com a tag id""  se usa "#" e o nome usado para a dentificação, já para a tag de idenficação, "class" para salientar ela dentro  do CSS usase o "ponto"
+tag border-radius cplpcar bordas arrendondadas.
+________________"""_____________________________
+tag paddig define uma distãncia entre o cnteúdi de seus elementos e suas bordas
+Parei a aula da CODAÍ em 13:48 
+________________""_________________________________
+Parei a aula da CODAÍ em 13:37
+Class dentro  do body para colocar uma  imagem de fundo depois  de  ser  criado uma class linkando o  stilo css, tag link css ou link rel= .
+_______________""___________________________________
+ Projeto Nikel
+Criar uma pasta chamada public ou publicação, detro dessa pasta criar três arquivos HTML com nomes de: index, home e transictions ou trasações.
+Parei a aula da CODAÍ em 25:20.
+______________""___________________________________
+Nikel
+Aula do  dia 07/09
+Parei a aula da CODAÍ em 6:58.
+______________""______________________________
+tag <meta charset="utf-8">, e  uma tag  de acentuação, ou como podemos chamar  de metodo de acentuação, e a mesma  não  precisa ser fechada pois não aconteúdo nela ela é uma tag de  interpretação do browser.
+_____________""__________________________________
+tag strong, deixa o  texto em negrito. (strong= forte)
+tag em, deixa o  texto  em italíco. (em = enfâse)
+tag u, deixa ele em anderline.
+tag strike, para riscar  o texto, assim sinalizando  erro.
+tag ul, e usado para  criar uma lista desordenada.
+tag li, e onde são colocados  os itens  dá lista. 
+e dentro  da tag ul, colocando-se o atributo type="",  consegue-se mudar o tipo de seletor  da lista, de ponto  que vem por defult para circle, ou  square quadrado. 
+tag <!-- -->, e usada para se por comentários sobre o código.
+_____________""_____________________________________
+Dia 26/09/22
+Aula links:
+Tag a e usada para fazer linkes  entre  páginas  dentro do HTML. 
+OBS.: A tag a e usada para  links internos  ou externos. Já em  links externos ou  seja fora  do  próprio projeto, sefor redirecionar para outros sites,  como  G1 CNN ou tantos outros e preciso colocar o endereço completo que é: http://www.osite.com, no caso o endereço do site http://www.facebook.com
+e em casos de pastas dentrio de um projeto  também  e necessário escreve o enderço/caminho completo.
+_______________""__________________________________
+Aula do dia 27/09/22.
+A tag colspan="", faz a mesclagem das colunas.
+a tag rowspan="", faz mesclagem  das linhas.
+______________""____________________________________
+Aula do dia  28/09/22
+tag form,  usadas para criação de formulário.
+tag input, cria diversos, campos de entrada de dados em  HTML.
+OBS.: Dentro da tag input, existem vários outros inputs, como text, password, button, radio e checkbox. cada um para determinada  finalidade.
+input tipo  text, serve para  texto.
+input tipo password. serve no uso de colocação de senhas.
+input radio, serve para poder marcar e desmarca opções.
+já o checkbox, serve para poder, ser marcadas várias opções ao mesmo tempo.
+
+
